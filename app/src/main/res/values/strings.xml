@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">helloworld</string>
+    <string name="nhanmo_intro">Hello World! My name is Nhanmo. I love coding, videogames, and anime.</string>
+    <string name="button_text">Say hello!</string>
+    <string name="contentDescription">Anya</string>
+</resources>
